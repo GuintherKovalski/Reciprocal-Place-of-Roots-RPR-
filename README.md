@@ -10,13 +10,18 @@ To use this function, the args are:
     den = the denominator coeficients of h(z)
     p = a postive value
     
-Tt returns the roots. 
+It returns the roots. 
 example:
 
 num=[1 0.9]
 den=[1 -1.5 0.7]
 p=5;
 RPR(num,den,p)
+
+   1.3289 + 1.3732i
+   1.3289 - 1.3732i
+   0.3639 + 0.3760i
+   0.3639 - 0.3760i
 
 ![alt text](https://user-images.githubusercontent.com/43643854/49870383-55ec4900-fdfa-11e8-9026-bf6b2d87c3a8.png)  ![alt text](https://user-images.githubusercontent.com/43643854/49870400-613f7480-fdfa-11e8-962d-db54c143dab2.png)
 
