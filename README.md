@@ -5,6 +5,7 @@ Given an discrete transference function H(Z), it's reciprocal roots are:
 The reciprocal roots are those which are smaller than 1, wich are the ones that give stability to your system.
 
 To use this function, the args are:
+    
     num = the numerator coeficients of h(z)
     den = the denominator coeficients of h(z)
     p = a postive value
